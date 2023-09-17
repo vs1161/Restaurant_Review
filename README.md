@@ -12,12 +12,12 @@ The reviews are text therefore the text has been converted into vectors of words
 
 The transformed data has been split into (80:20) train and test datasets leveraging sklearn 
 The dataset has been trained in several models for accuracy observation:
-                     1. Logistic Regression
-                     2. Random Forest Classifier
+                     1. Logistic Regression(**lr**)
+                     2. Random Forest Classifier(**rfc**)
                      3. KNN 
-                     4. Gaussian NavieBayes classifier 
-                     5. Multinomial NavieBayes classifier 
-                     6. Support Vector Machine classifier 
+                     4. Gaussian NavieBayes classifier(**gnb**)
+                     5. Multinomial NavieBayes classifier(**mnb**)
+                     6. Support Vector Machine classifier(**svc**)
 
 The accuracy of all models has been compared:
 ![restaurant_review](https://github.com/vs1161/Restaurant_Review/assets/106301220/51d6ab34-d28f-4ebb-afbf-367e3e0a87cc)
