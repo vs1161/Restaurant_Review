@@ -3,9 +3,13 @@
 • **Dataset** - Downloaded from Kaggle containing ( 10000 * 8 ) dimension 
 
 •  Data preprocessing has been done using:
+
                 - nltk library 
+                
                 - word lemmatization technique
+                
                 - removing regular expressions
+                
                 - removing StopWords 
                     
 •  The reviews are text therefore the text has been converted into vectors of words so that it is interpretable by computer 
@@ -26,4 +30,5 @@
 
 • SVC has highest accuracy(**91%**)
 
-• Parameters of SVC is tuned using GridSearchCV but not able to achieve better than 91% accuracy 
+• Parameters of SVC are tuned using GridSearchCV but not able to achieve better than 91% accuracy as tuning has been performed considering low search space due to 
+constraint of resources available.
