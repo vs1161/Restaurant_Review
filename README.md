@@ -3,6 +3,8 @@ to predict whether the review given by a customer is good or bad
 
 # Motivation 
 
+# Methods
+
 • **Dataset** - Downloaded from Kaggle containing ( 10000 * 8 ) dimension 
 
 •  Data preprocessing has been done using:
