@@ -1,4 +1,7 @@
 # Restaurant_Review - NLP Project
+to predict whether the review given by a customer is good or bad 
+
+# Motivation 
 
 • **Dataset** - Downloaded from Kaggle containing ( 10000 * 8 ) dimension 
 
