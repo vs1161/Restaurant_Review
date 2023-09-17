@@ -20,3 +20,4 @@ The dataset has been trained in several models for accuracy observation:
                      6. Support Vector Machine classifier 
 
 The accuracy of all models has been compared:
+![restaurant_review](https://github.com/vs1161/Restaurant_Review/assets/106301220/51d6ab34-d28f-4ebb-afbf-367e3e0a87cc)
