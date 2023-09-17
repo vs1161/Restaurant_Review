@@ -4,6 +4,10 @@
 
 •  Data preprocessing has been done using:
 
+                - Detecting outliers present in the rating column using box plot 
+
+                - Replacing null values present in the rating column with the mean of the distribution of ratings as no outliers were detected
+
                 - nltk library 
                 
                 - word lemmatization technique
